@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
- * Main - Entry Point
+ * Main - writes character using _putchar to stdout
  *
- * Return: Always 0 (success)
+ *
+ * Return: Always 0 (Success)
  */
 
 int main(void)
@@ -16,6 +17,7 @@ int main(void)
 	_putchar('h');
 	_putchar('a');
 	_putchar('r');
+	_putchar("\n");
 
 	return (0);
 }
