@@ -1,9 +1,7 @@
 #include "main.h"
 
 /**
- * main - Entry point
- *
- * Description: 'Function that prints alpabet in a lower case'
+ * print_alphabet - entry point
  *
  * Return: Always 0 (Success)
  */
@@ -15,9 +13,10 @@ void print_alphabet(void);
 
 	while (c <= 'z')
 	{
-	_putchar('c');
-	c++
+		_putchar('c');
+		c++;
 	}
 
 	_putchar('\n');
+
 }
