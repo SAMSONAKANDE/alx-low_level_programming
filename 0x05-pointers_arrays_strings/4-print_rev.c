@@ -5,7 +5,7 @@
  * print_rev - prints string in reversed order
  *
  * @str: string to be reversed
- * 
+ *
  * Return: Null
  */
 
