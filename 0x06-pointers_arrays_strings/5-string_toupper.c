@@ -3,8 +3,8 @@
 /**
  * string_toupper - Changes any lowercase letter in a string to uppercase
  *
- * @n: string to check
- * 
+ * @n:string to check
+ *
  * Return: Uppercased string
  */
 
